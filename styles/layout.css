@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-@import url("fontawesome-4.5.0.min.css");
+/* @import url("fontawesome-4.5.0.min.css"); */
 @import url("framework.css");
 
 .row1, .row1 a{}
@@ -88,7 +88,7 @@
 #footer .linklist li, #footer .linklist li::after{clear:both;}
 
 #footer .contact{}
-#footer .contact.linklist li, #footer .contact.linklist li:last-child{position:relative; padding-left:40px;}
+#footer .contact.linklist li, #footer .contact.linklist li:last-child{position:relative; /*padding-left:40px;*/}
 #footer .contact li *{margin:0; padding:0; line-height:1.6;}
 #footer .contact li i{display:block; position:absolute; top:0; left:0; width:30px; font-size:16px; text-align:center;}
 
@@ -323,7 +323,8 @@ table a, #comments a{background-color:inherit;}
   .container, #footer{padding-bottom:50px;}/* not neccessary but looks better */
 }
 
-@media screen and (max-width:450px){}
+@media screen and (max-width:450px){
+}
 
 
 /* Other
@@ -337,4 +338,14 @@ table a, #comments a{background-color:inherit;}
 
   .font-x2{font-size:1.4rem;}
   .font-x3{font-size:1.6rem;}
+}
+
+
+.sn {
+  vertical-align: top;
+  width: 30px;
+}
+
+.social_network a {
+  text-decoration: none;
 }
