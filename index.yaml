@@ -1,0 +1,47 @@
+ua:
+  title: Photography by Svitlana Krainik
+  description: Професійний фотограф в м. Ірпені, фотосесії на замовлення, дитячі і сімейні фотосети, підбірка портфоліо та послуги з комерційної фотографії і дизайну, рекламні фотопостери і відеороліки, монтаж сімейного відео і ретуш фотографій, проявка відеоплівок і друк фото. Фотоцентр також надає широкий спектр супутних і копірувальних послуг.
+  menu:
+    title:
+      gallery: ГАЛЕРЕЯ
+      contacts: КОНТАКТИ
+  header:
+    title: Photography by Svitlana Krainik
+    slogan: Ми закарбовуємо найкращі моменти вашого життя
+  body:
+    line1: ГАЛЕРЕЯ
+    line2: This is a small part of what we really can show you.
+  footer:
+    goal:
+      title: Про нас
+      text: Для кожного з охочих у нас індивідуальний підхід. <br /><br /> Приходьте! У нас є що Вам запропонувати!<br /><br />  Стандартна фотосесія від 600 грн./год.
+    contacts:
+      title: Контакти
+      map: Як нас знайти
+    address: м. Ірпінь, <br />вул. Університетська, 2/1, <br /> корп. "Г", оф. 7/2 <br /><br />
+    tips_address: біля магазину "АТБ", зупинка "вул. Чехова" (марш.№379)
+  copyright: Copyright &copy; 2018 - Photography by Svitlana Krainik
+
+us:
+  title: Photography by Svitlana Krainik
+  description: Професійний фотограф в м. Ірпені, фотосесії на замовлення, дитячі і сімейні фотосети, підбірка портфоліо та послуги з комерційної фотографії і дизайну, рекламні фотопостери і відеороліки, монтаж сімейного відео і ретуш фотографій, проявка відеоплівок і друк фото. Фотоцентр також надає широкий спектр супутних і копірувальних послуг.
+  menu:
+    title:
+      gallery: Gallery
+      contacts: Contacts
+  header:
+    title: Photography by Svitlana Krainik
+    slogan: We capture the best moments of your life
+  body:
+    line1: Work examples
+    line2: This is a small part of what we really can show you.
+  footer:
+    goal:
+      title: Our goal
+      text: We have personal proposal for ‎every client. <br /><br />Standard photoset price is 600 hrn/h.
+    contacts:
+      title: Contacts
+      map: How to find us
+    address: Irpin, 2/1 Universitetska str.‎, corp. "Г", office 7/2
+    tips_address:
+  copyright: Copyright &copy; 2018 - Photography by Svitlana Krainik
