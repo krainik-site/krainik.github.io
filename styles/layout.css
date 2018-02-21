@@ -100,6 +100,19 @@
 *, *::before, *::after{transition:all .3s ease-in-out;}
 #mainav form *{transition:none !important;}
 
+#mainlang ul.clear{margin-top:3px;}
+#mainlang ul{text-transform:uppercase;}
+#mainlang ul ul{z-index:9999; position:absolute; width:180px; text-transform:none;}
+#mainlang ul ul ul{left:180px; top:0;}
+#mainlang li{display:inline-block; position:relative; margin:0 15px 0 0; padding:0;}
+#mainlang li:last-child{margin-right:0;}
+#mainlang li li{width:100%; margin:0;}
+#mainlang li a{display:block; padding:0 0 10px 0;}
+#mainlang li li a{border:solid; border-width:0 0 1px 0;}
+#mainlang li li a, #mainav li li .drop{display:block; margin:0; padding:10px 15px;}
+#mainlang li li .drop::after{top:15px; left:5px;}
+#mainlang ul ul{visibility:hidden; opacity:0;}
+#mainlang ul li:hover > ul{visibility:visible; opacity:1;}
 
 nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
